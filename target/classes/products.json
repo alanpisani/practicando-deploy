@@ -1,0 +1,26 @@
+[
+  {
+    "stock": 12,
+    "name": "Monitor para Gaming",
+    "price": 349.99,
+    "id": 0
+  },
+  {
+    "stock": 50,
+    "name": "Auriculares inalámbricos",
+    "price": 129.99,
+    "id": 1
+  },
+  {
+    "stock": 20,
+    "name": "Teclado mecánico",
+    "price": 89.99,
+    "id": 2
+  },
+  {
+    "stock": 35,
+    "name": "SSD Externo",
+    "price": 149.99,
+    "id": 3
+  }
+]
